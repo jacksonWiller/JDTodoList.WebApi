@@ -9,7 +9,7 @@ namespace JDTodoList.WebApi.Models
         public bool Done { get; set; }
         public DateTime DataDeCriação { get; set; }
         public DateTime UltimaAtualização { get; set; }
-        public string User { get; set; }
+        // public string User { get; set; }
 
     }
 }
